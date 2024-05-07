@@ -22,7 +22,9 @@ public class CalculadoraPro {
         if (valor == 1 ) {
             int resultado = numero1 + numero2;
             System.out.println("El resultado de la suma es: " + resultado);
-            
+            /*
+            subido al octogato mi apa
+            */
         }
         else if (valor == 2) {
             int resultado = numero1 - numero2;
